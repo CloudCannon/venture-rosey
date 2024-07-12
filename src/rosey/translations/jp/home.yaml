@@ -2,12 +2,12 @@ urlTranslation: index.html
 _inputs:
   $:
     type: object
-    comment: "[See ](https://epic-garden.cloudvent.net/)"
+    comment: "[See ](https://proper-carrot.cloudvent.net/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
-          comment: Text to translate on [](https://epic-garden.cloudvent.net/)
+          comment: Text to translate on [](https://proper-carrot.cloudvent.net/)
           inputs:
             - contact-us
             - dollar34
@@ -26,7 +26,7 @@ _inputs:
             - service-3
             - subheadings-available
         - heading: Already translated (jp)
-          comment: Text already translated on [](https://epic-garden.cloudvent.net/)
+          comment: Text already translated on [](https://proper-carrot.cloudvent.net/)
           inputs:
             - a-component-to-showcase-your-brand
             - a-contact-block
@@ -62,46 +62,46 @@ _inputs:
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=A%20component%20to%20sho\
-      wcase%20your%20brand)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=A%20component%20to%20s\
+      howcase%20your%20brand)"
   a-contact-block:
     label: A contact block
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=A%20contact%20block)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=A%20contact%20block)"
   a-featured-icons-block:
     label: A featured icons block
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=A%20featured%20icons%20b\
-      lock)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=A%20featured%20icons%2\
+      0block)"
   a-simple-gallery:
     label: a simple gallery
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=a%20simple%20gallery)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=a%20simple%20gallery)"
   a-small-business-template:
     label: A small business template
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=A%20small%20business%20t\
-      emplate)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=A%20small%20business%2\
+      0template)"
   andldquo;their-customer-service-is-second-to-noneandrdquo;:
     label: “Their customer service is second to none....
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=%E2%80%9CTheir%20custome\
-      r%20service,second%20to%20none%E2%80%9D)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=%E2%80%9CTheir%20custo\
+      mer%20service,second%20to%20none%E2%80%9D)"
     context:
       open: false
       title: Untranslated Text
@@ -112,52 +112,52 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Book%20Now)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=Book%20Now)"
   contact-us:
     label: Contact Us
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Contact%20Us)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=Contact%20Us)"
   dollar34:
     label: "34"
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=34)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=34)"
   dollar40:
     label: "40"
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=40)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=40)"
   dollar7599:
     label: "75.99"
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=7599)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=7599)"
   dollar79-annually:
     label: 79 annually
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=79%20annually)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=79%20annually)"
   dollar95-per-month:
     label: 95 per month
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=95%20per%20month)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=95%20per%20month)"
   empower-your-business-with-this-brilliant-template:
     label: Empower your business with this brilliant ...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Empower%20your%20busines\
-      s,this%20brilliant%20template)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Empower%20your%20busin\
+      ess,this%20brilliant%20template)"
     context:
       open: false
       title: Untranslated Text
@@ -169,35 +169,36 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Eyebrow%20Heading)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Eyebrow%20Heading)"
   image-gallery:
     label: Image Gallery
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Image%20Gallery)"
+    comment: "[See on
+      page](https://proper-carrot.cloudvent.net/#:~:text=Image%20Gallery)"
   let-your-features-shine:
     label: let your features shine
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=let%20your%20features%20\
-      shine)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=let%20your%20features%\
+      20shine)"
   list-your-services-or-products:
     label: List your services or products
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=List%20your%20services%2\
-      0or%20products)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=List%20your%20services\
+      %20or%20products)"
   load-more:
     label: Load more
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Load%20more)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=Load%20more)"
   markdown:(c)enter-your-copyright-and-terms-and-conditions:
     label: ©Enter your copyright and terms and condit...
     hidden: false
@@ -220,8 +221,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=%C2%A9Enter%20your%20cop\
-      yright,terms%20and%20conditions)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=%C2%A9Enter%20your%20c\
+      opyright,terms%20and%20conditions)"
     context:
       open: false
       title: Untranslated Text
@@ -250,8 +251,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=100%20Happy%20customer%2\
-      0reviews)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=100%20Happy%20customer\
+      %20reviews)"
   markdown:7JybYfG4GEziEtrTL+cNECyjNbiJfseZBSwW85k+kf8:
     label: ""
     hidden: true
@@ -273,7 +274,7 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=)"
   markdown:address-1-fake-st-faketown:
     label: "Address: 1 Fake St, Faketown"
     hidden: false
@@ -296,8 +297,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Address%201%20Fake%20St%\
-      20Faketown)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Address%201%20Fake%20S\
+      t%20Faketown)"
   markdown:description-text-to-complement-the-block:
     label: Description text to complement the block.
     hidden: false
@@ -320,8 +321,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Description%20text%20to%\
-      20complement%20the%20block)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Description%20text%20t\
+      o%20complement%20the%20block)"
   markdown:email-address-mybusiness@businesscom:
     label: "Email address: mybusiness@business.com"
     hidden: false
@@ -344,8 +345,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Email%20address%20mybusi\
-      ness@businesscom)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Email%20address%20mybu\
+      siness@businesscom)"
   markdown:great-customer-service:
     label: Great customer service
     hidden: false
@@ -368,8 +369,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Great%20customer%20servi\
-      ce)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Great%20customer%20ser\
+      vice)"
   markdown:john-smith:
     label: John Smith
     hidden: false
@@ -391,7 +392,7 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=John%20Smith)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=John%20Smith)"
   markdown:opening-hours-9-5pm-monday-to-friday:
     label: "Opening hours: 9-5pm, Monday to Friday"
     hidden: false
@@ -414,8 +415,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Opening%20hours%209-5pm%\
-      20Monday%20to%20Friday)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Opening%20hours%209-5p\
+      m%20Monday%20to%20Friday)"
   markdown:outstanding-product-reviews:
     label: Outstanding product reviews
     hidden: false
@@ -438,8 +439,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Outstanding%20product%20\
-      reviews)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Outstanding%20product%\
+      20reviews)"
   markdown:phone-number-312-325-326:
     label: "Phone number: 312 325 326"
     hidden: false
@@ -462,8 +463,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Phone%20number%20312%203\
-      25%20326)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Phone%20number%20312%2\
+      0325%20326)"
   markdown:this-is-a-simple-yet-powerful-block-to-display-not-only-your-location-by-using-openstreetmaps-but-also-any-other-contact-details-you-wish-to-share-with-your-customers:
     label: This is a simple yet powerful block to dis...
     hidden: false
@@ -486,8 +487,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=This%20is%20a,with%20you\
-      r%20customers)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=This%20is%20a,with%20y\
+      our%20customers)"
     context:
       open: false
       title: Untranslated Text
@@ -517,8 +518,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Whether%20your%20busines\
-      s,the%20list%20below)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Whether%20your%20busin\
+      ess,the%20list%20below)"
     context:
       open: false
       title: Untranslated Text
@@ -531,81 +532,83 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Our%20Services)"
+    comment: "[See on
+      page](https://proper-carrot.cloudvent.net/#:~:text=Our%20Services)"
   price-on-application:
     label: Price on application
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Price%20on%20application\
-      )"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Price%20on%20applicati\
+      on)"
   product-1:
     label: Product 1
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Product%201)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=Product%201)"
   product-2:
     label: Product 2
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Product%202)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=Product%202)"
   product-3:
     label: Product 3
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Product%203)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=Product%203)"
   service-1:
     label: Service 1
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Service%201)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=Service%201)"
   service-2:
     label: Service 2
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Service%202)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=Service%202)"
   service-3:
     label: Service 3
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/#:~:text=Service%203)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/#:~:text=Service%203)"
   skip-to-contents:
     label: Skip to contents
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Skip%20to%20contents)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Skip%20to%20contents)"
   subheadings-available:
     label: Subheadings available
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Subheadings%20available)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Subheadings%20availabl\
+      e)"
   tag-or-label-headline:
     label: Tag or label headline
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=Tag%20or%20label%20headl\
-      ine)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=Tag%20or%20label%20hea\
+      dline)"
   what-your-customers-say:
     label: What your customers say
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/#:~:text=What%20your%20customers%\
-      20say)"
+      page](https://proper-carrot.cloudvent.net/#:~:text=What%20your%20customer\
+      s%20say)"
 a-component-to-showcase-your-brand: ブランドを紹介するためのコンポーネント
 a-contact-block: 接点ブロック
 a-featured-icons-block: 注目のアイコンブロック

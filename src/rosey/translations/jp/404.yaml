@@ -2,12 +2,12 @@ urlTranslation: 404/index.html
 _inputs:
   $:
     type: object
-    comment: "[See 404/](https://epic-garden.cloudvent.net/404/)"
+    comment: "[See 404/](https://proper-carrot.cloudvent.net/404/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
-          comment: Text to translate on [404/](https://epic-garden.cloudvent.net/404/)
+          comment: Text to translate on [404/](https://proper-carrot.cloudvent.net/404/)
           inputs:
             - book-now
             - contact-us
@@ -19,21 +19,22 @@ _inputs:
             - uMtr8wX//bU83YYJrdde2yb9/5bvdHT7YfcGfJkWcCc
         - heading: Already translated (jp)
           comment: Text already translated on
-            [404/](https://epic-garden.cloudvent.net/404/)
+            [404/](https://proper-carrot.cloudvent.net/404/)
           inputs: []
   book-now:
     label: Book Now
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/404/#:~:text=Book%20Now)"
+    comment: "[See on
+      page](https://proper-carrot.cloudvent.net/404/#:~:text=Book%20Now)"
   contact-us:
     label: Contact Us
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/404/#:~:text=Contact%20Us)"
+      page](https://proper-carrot.cloudvent.net/404/#:~:text=Contact%20Us)"
   markdown:(c)enter-your-copyright-and-terms-and-conditions:
     label: ©Enter your copyright and terms and condit...
     hidden: false
@@ -56,8 +57,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/404/#:~:text=%C2%A9Enter%20your%2\
-      0copyright,terms%20and%20conditions)"
+      page](https://proper-carrot.cloudvent.net/404/#:~:text=%C2%A9Enter%20your\
+      %20copyright,terms%20and%20conditions)"
     context:
       open: false
       title: Untranslated Text
@@ -86,8 +87,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/404/#:~:text=Sorry%20but%20the,do\
-      es%20not%20exist)"
+      page](https://proper-carrot.cloudvent.net/404/#:~:text=Sorry%20but%20the,\
+      does%20not%20exist)"
     context:
       open: false
       title: Untranslated Text
@@ -99,28 +100,29 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/404/#:~:text=Our%20Services)"
+      page](https://proper-carrot.cloudvent.net/404/#:~:text=Our%20Services)"
   page-not-found:
     label: Page Not Found
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/404/#:~:text=Page%20Not%20Found)"
+      page](https://proper-carrot.cloudvent.net/404/#:~:text=Page%20Not%20Found\
+      )"
   skip-to-contents:
     label: Skip to contents
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/404/#:~:text=Skip%20to%20contents\
-      )"
+      page](https://proper-carrot.cloudvent.net/404/#:~:text=Skip%20to%20conten\
+      ts)"
   uMtr8wX//bU83YYJrdde2yb9/5bvdHT7YfcGfJkWcCc:
     label: "404"
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/404/#:~:text=404)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/404/#:~:text=404)"
 book-now: ""
 contact-us: ""
 markdown:(c)enter-your-copyright-and-terms-and-conditions: ""

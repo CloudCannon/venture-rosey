@@ -3,14 +3,14 @@ _inputs:
   $:
     type: object
     comment: "[See
-      terms-and-conditions/](https://epic-garden.cloudvent.net/terms-and-condit\
-      ions/)"
+      terms-and-conditions/](https://proper-carrot.cloudvent.net/terms-and-cond\
+      itions/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (es)
           comment: Text to translate on
-            [terms-and-conditions/](https://epic-garden.cloudvent.net/terms-and-conditions/)
+            [terms-and-conditions/](https://proper-carrot.cloudvent.net/terms-and-conditions/)
           inputs:
             - book-now
             - contact-us
@@ -18,7 +18,7 @@ _inputs:
             - our-services
         - heading: Already translated (es)
           comment: Text already translated on
-            [terms-and-conditions/](https://epic-garden.cloudvent.net/terms-and-conditions/)
+            [terms-and-conditions/](https://proper-carrot.cloudvent.net/terms-and-conditions/)
           inputs:
             - eyebrow-heading
             - markdown:description-text-to-complement-the-block
@@ -31,24 +31,24 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/terms-and-conditions/#:~:text=Boo\
-      k%20Now)"
+      page](https://proper-carrot.cloudvent.net/terms-and-conditions/#:~:text=B\
+      ook%20Now)"
   contact-us:
     label: Contact Us
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/terms-and-conditions/#:~:text=Con\
-      tact%20Us)"
+      page](https://proper-carrot.cloudvent.net/terms-and-conditions/#:~:text=C\
+      ontact%20Us)"
   eyebrow-heading:
     label: Eyebrow Heading
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/terms-and-conditions/#:~:text=Eye\
-      brow%20Heading)"
+      page](https://proper-carrot.cloudvent.net/terms-and-conditions/#:~:text=E\
+      yebrow%20Heading)"
   markdown:(c)enter-your-copyright-and-terms-and-conditions:
     label: ©Enter your copyright and terms and condit...
     hidden: false
@@ -71,8 +71,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/terms-and-conditions/#:~:text=%C2\
-      %A9Enter%20your%20copyright,terms%20and%20conditions)"
+      page](https://proper-carrot.cloudvent.net/terms-and-conditions/#:~:text=%\
+      C2%A9Enter%20your%20copyright,terms%20and%20conditions)"
     context:
       open: false
       title: Untranslated Text
@@ -101,8 +101,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/terms-and-conditions/#:~:text=Des\
-      cription%20text%20to%20complement%20the%20block)"
+      page](https://proper-carrot.cloudvent.net/terms-and-conditions/#:~:text=D\
+      escription%20text%20to%20complement%20the%20block)"
   markdown:provide-all-the-necessary-information-these-terms-and-conditions-outline-the-rules-and-regulations-for-the-use-of-company-name's-website-located-at-websitecomlessbrgreaterlessbrgreaterby-accessing-this-website-we-assume-you-accept-these-terms-and-conditions-do-not-continue-to-use-website-name-if-you-do-not-agree-to-take-all-of-the-terms-and-conditions-stated-on-this-pagelessbrgreaterlessbrgreaterthe-following-terminology-applies-to-these-terms-and-conditions-privacy-statement-and-disclaimer-notice-and-all-agreements-:
     label: |2-
        Provide all the necessary information.
@@ -128,8 +128,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/terms-and-conditions/#:~:text=Pro\
-      vide%20all,of%20any%20nature)"
+      page](https://proper-carrot.cloudvent.net/terms-and-conditions/#:~:text=P\
+      rovide%20all,of%20any%20nature)"
     context:
       open: false
       title: Untranslated Text
@@ -367,24 +367,24 @@ _inputs:
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/terms-and-conditions/#:~:text=Our\
-      %20Services)"
+      page](https://proper-carrot.cloudvent.net/terms-and-conditions/#:~:text=O\
+      ur%20Services)"
   skip-to-contents:
     label: Skip to contents
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/terms-and-conditions/#:~:text=Ski\
-      p%20to%20contents)"
+      page](https://proper-carrot.cloudvent.net/terms-and-conditions/#:~:text=S\
+      kip%20to%20contents)"
   terms-and-conditions:
     label: Terms and conditions
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/terms-and-conditions/#:~:text=Ter\
-      ms%20and%20conditions)"
+      page](https://proper-carrot.cloudvent.net/terms-and-conditions/#:~:text=T\
+      erms%20and%20conditions)"
 book-now: ""
 contact-us: ""
 eyebrow-heading: Encabezado de cejas

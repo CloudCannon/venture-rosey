@@ -2,13 +2,13 @@ urlTranslation: booking/index.html
 _inputs:
   $:
     type: object
-    comment: "[See booking/](https://epic-garden.cloudvent.net/booking/)"
+    comment: "[See booking/](https://proper-carrot.cloudvent.net/booking/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [booking/](https://epic-garden.cloudvent.net/booking/)
+            [booking/](https://proper-carrot.cloudvent.net/booking/)
           inputs:
             - JUOZuK3mv2fsD+0HEknH4QXO64Shr8+Csd6ZO2ejAUE
             - choose-a-date
@@ -22,7 +22,7 @@ _inputs:
             - phone-number
         - heading: Already translated (jp)
           comment: Text already translated on
-            [booking/](https://epic-garden.cloudvent.net/booking/)
+            [booking/](https://proper-carrot.cloudvent.net/booking/)
           inputs:
             - a-hero-for-a-booking-form-page
             - a-simple-text-block-for-your-faqs
@@ -48,128 +48,131 @@ _inputs:
     hidden: true
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/booking/#:~:text=)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/booking/#:~:text=)"
   a-hero-for-a-booking-form-page:
     label: A hero for a booking form page
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=A%20hero%20for,b\
-      ooking%20form%20page)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=A%20hero%20for\
+      ,booking%20form%20page)"
   a-simple-text-block-for-your-faqs:
     label: A simple text block for your FAQs
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=A%20simple%20tex\
-      t,for%20your%20FAQs)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=A%20simple%20t\
+      ext,for%20your%20FAQs)"
   add-an-optional-button:
     label: Add an optional button
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Add%20an%20optio\
-      nal%20button)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Add%20an%20opt\
+      ional%20button)"
   an-icon-card-grid:
     label: An icon card grid
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=An%20icon%20card\
-      %20grid)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=An%20icon%20ca\
+      rd%20grid)"
   another-optional-button!:
     label: Another optional button!
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Another%20option\
-      al%20button!)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Another%20opti\
+      onal%20button!)"
   bite-sized-information:
     label: Bite-sized information
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Bite-sized%20inf\
-      ormation)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Bite-sized%20i\
+      nformation)"
   book-now:
     label: Book Now
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Book%20Now)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Book%20Now)"
   booking-form:
     label: Booking form
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Booking%20form)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Booking%20form\
+      )"
   choose-a-date:
     label: "Choose a date "
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Choose%20a%20dat\
-      e%20)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Choose%20a%20d\
+      ate%20)"
   contact-us:
     label: Contact Us
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Contact%20Us)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Contact%20Us)"
   email-address:
     label: "Email address "
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Email%20address%\
-      20)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Email%20addres\
+      s%20)"
   eyebrow-heading:
     label: Eyebrow Heading
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Eyebrow%20Headin\
-      g)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Eyebrow%20Head\
+      ing)"
   full-name:
     label: "Full name "
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Full%20name%20)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Full%20name%20\
+      )"
   heading:
     label: Heading
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/booking/#:~:text=Heading)"
+    comment: "[See on
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Heading)"
   icon-card:
     label: icon card
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=icon%20card)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=icon%20card)"
   large-image-or-video-block:
     label: Large image or video block
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Large%20image%20\
-      or%20video%20block)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Large%20image%\
+      20or%20video%20block)"
   markdown:(c)enter-your-copyright-and-terms-and-conditions:
     label: ©Enter your copyright and terms and condit...
     hidden: false
@@ -192,8 +195,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=%C2%A9Enter%20yo\
-      ur%20copyright,terms%20and%20conditions)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=%C2%A9Enter%20\
+      your%20copyright,terms%20and%20conditions)"
     context:
       open: false
       title: Untranslated Text
@@ -221,7 +224,7 @@ _inputs:
       code: true
       horizontalrule: true
       image: true
-    comment: "[See on page](https://epic-garden.cloudvent.net/booking/#:~:text=)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/booking/#:~:text=)"
   markdown:have-a-strong-visual-element-you-want-to-share?-this-component-gives-you-the-flexibility-to-either-add-a-youtube-video-or-an-image:
     label: Have a strong visual element you want to s...
     hidden: false
@@ -244,8 +247,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Have%20a%20stron\
-      g,or%20an%20image)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Have%20a%20str\
+      ong,or%20an%20image)"
     context:
       open: false
       title: Untranslated Text
@@ -274,8 +277,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Here%20are%20a,b\
-      est%20way%20possible)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Here%20are%20a\
+      ,best%20way%20possible)"
     context:
       open: false
       title: Untranslated Text
@@ -307,8 +310,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=How%20do,or%20cr\
-      edit%20card)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=How%20do,or%20\
+      credit%20card)"
     context:
       open: false
       title: Untranslated Text
@@ -348,8 +351,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Sometimes%20you%\
-      20only,showcase%20your%20content)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Sometimes%20yo\
+      u%20only,showcase%20your%20content)"
     context:
       open: false
       title: Untranslated Text
@@ -378,8 +381,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=These%20versatil\
-      e%20cards,with%20your%20audience)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=These%20versat\
+      ile%20cards,with%20your%20audience)"
     context:
       open: false
       title: Untranslated Text
@@ -391,37 +394,40 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/booking/#:~:text=Message)"
+    comment: "[See on
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Message)"
   our-services:
     label: Our Services
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Our%20Services)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Our%20Services\
+      )"
   phone-number:
     label: Phone number
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Phone%20number)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Phone%20number\
+      )"
   skip-to-contents:
     label: Skip to contents
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Skip%20to%20cont\
-      ents)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Skip%20to%20co\
+      ntents)"
   tag-or-label-headline:
     label: Tag or label headline
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/booking/#:~:text=Tag%20or%20label\
-      %20headline)"
+      page](https://proper-carrot.cloudvent.net/booking/#:~:text=Tag%20or%20lab\
+      el%20headline)"
 JUOZuK3mv2fsD+0HEknH4QXO64Shr8+Csd6ZO2ejAUE: ""
 a-hero-for-a-booking-form-page: 予約フォームページのヒーロー
 a-simple-text-block-for-your-faqs: FAQ のシンプルなテキスト ブロック

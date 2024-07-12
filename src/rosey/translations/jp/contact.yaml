@@ -2,13 +2,13 @@ urlTranslation: contact/index.html
 _inputs:
   $:
     type: object
-    comment: "[See contact/](https://epic-garden.cloudvent.net/contact/)"
+    comment: "[See contact/](https://proper-carrot.cloudvent.net/contact/)"
     options:
       place_groups_below: false
       groups:
         - heading: Still to translate (jp)
           comment: Text to translate on
-            [contact/](https://epic-garden.cloudvent.net/contact/)
+            [contact/](https://proper-carrot.cloudvent.net/contact/)
           inputs:
             - JUOZuK3mv2fsD+0HEknH4QXO64Shr8+Csd6ZO2ejAUE
             - book-now
@@ -23,7 +23,7 @@ _inputs:
             - submit
         - heading: Already translated (jp)
           comment: Text already translated on
-            [contact/](https://epic-garden.cloudvent.net/contact/)
+            [contact/](https://proper-carrot.cloudvent.net/contact/)
           inputs:
             - a-contact-block
             - an-image-card-grid
@@ -43,68 +43,69 @@ _inputs:
     hidden: true
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/contact/#:~:text=)"
+    comment: "[See on page](https://proper-carrot.cloudvent.net/contact/#:~:text=)"
   a-contact-block:
     label: A contact block
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=A%20contact%20bl\
-      ock)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=A%20contact%20\
+      block)"
   an-image-card-grid:
     label: An image card grid
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=An%20image%20car\
-      d%20grid)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=An%20image%20c\
+      ard%20grid)"
   bite-sized-information:
     label: Bite-sized information
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Bite-sized%20inf\
-      ormation)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Bite-sized%20i\
+      nformation)"
   book-now:
     label: Book Now
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Book%20Now)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Book%20Now)"
   contact-us:
     label: Contact Us
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Contact%20Us)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Contact%20Us)"
   email-address:
     label: "Email address "
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Email%20address%\
-      20)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Email%20addres\
+      s%20)"
   eyebrow-heading:
     label: Eyebrow Heading
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Eyebrow%20Headin\
-      g)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Eyebrow%20Head\
+      ing)"
   full-name:
     label: "Full name "
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Full%20name%20)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Full%20name%20\
+      )"
   markdown:(c)enter-your-copyright-and-terms-and-conditions:
     label: ©Enter your copyright and terms and condit...
     hidden: false
@@ -127,8 +128,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=%C2%A9Enter%20yo\
-      ur%20copyright,terms%20and%20conditions)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=%C2%A9Enter%20\
+      your%20copyright,terms%20and%20conditions)"
     context:
       open: false
       title: Untranslated Text
@@ -157,8 +158,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Add%20some%20des\
-      cription,complement%20the%20block)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Add%20some%20d\
+      escription,complement%20the%20block)"
     context:
       open: false
       title: Untranslated Text
@@ -186,8 +187,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Address%201%20Fa\
-      ke%20St%20Faketown)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Address%201%20\
+      Fake%20St%20Faketown)"
   markdown:email-address-mybusiness@businesscom:
     label: "Email address: mybusiness@business.com"
     hidden: false
@@ -210,8 +211,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Email%20address%\
-      20mybusiness@businesscom)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Email%20addres\
+      s%20mybusiness@businesscom)"
   markdown:invite-your-customers-to-get-in-touch-with-you:
     label: Invite your customers to get in touch with...
     hidden: false
@@ -234,8 +235,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Invite%20your%20\
-      customers,touch%20with%20you)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Invite%20your%\
+      20customers,touch%20with%20you)"
     context:
       open: false
       title: Untranslated Text
@@ -263,8 +264,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Opening%20hours%\
-      209-5pm%20Monday%20to%20Friday)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Opening%20hour\
+      s%209-5pm%20Monday%20to%20Friday)"
   markdown:phone-number-312-325-326:
     label: "Phone number: 312 325 326"
     hidden: false
@@ -287,8 +288,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Phone%20number%2\
-      0312%20325%20326)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Phone%20number\
+      %20312%20325%20326)"
   markdown:these-image-cards-combine-a-short-written-message-and-a-strong-visual-image:
     label: These image cards combine a short written ...
     hidden: false
@@ -311,8 +312,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=These%20image%20\
-      cards,strong%20visual%20image)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=These%20image%\
+      20cards,strong%20visual%20image)"
     context:
       open: false
       title: Untranslated Text
@@ -341,8 +342,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=These%20versatil\
-      e%20cards,with%20your%20audience)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=These%20versat\
+      ile%20cards,with%20your%20audience)"
     context:
       open: false
       title: Untranslated Text
@@ -371,8 +372,8 @@ _inputs:
       horizontalrule: true
       image: true
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=This%20is%20a,wi\
-      th%20your%20customers)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=This%20is%20a,\
+      with%20your%20customers)"
     context:
       open: false
       title: Untranslated Text
@@ -385,36 +386,39 @@ _inputs:
     hidden: false
     type: text
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/contact/#:~:text=Message)"
+    comment: "[See on
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Message)"
   our-services:
     label: Our Services
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Our%20Services)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Our%20Services\
+      )"
   primary-heading:
     label: Primary Heading
     hidden: false
     type: text
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Primary%20Headin\
-      g)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Primary%20Head\
+      ing)"
   skip-to-contents:
     label: Skip to contents
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
-      page](https://epic-garden.cloudvent.net/contact/#:~:text=Skip%20to%20cont\
-      ents)"
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Skip%20to%20co\
+      ntents)"
   submit:
     label: Submit
     hidden: false
     type: textarea
     options: {}
-    comment: "[See on page](https://epic-garden.cloudvent.net/contact/#:~:text=Submit)"
+    comment: "[See on
+      page](https://proper-carrot.cloudvent.net/contact/#:~:text=Submit)"
 JUOZuK3mv2fsD+0HEknH4QXO64Shr8+Csd6ZO2ejAUE: ""
 a-contact-block: 接点ブロック
 an-image-card-grid: 画像カードグリッド
