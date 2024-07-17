@@ -15,6 +15,7 @@ _inputs:
             - dollar7599
             - dollar79-annually
             - dollar95-per-month
+            - empower-your-business-with-this-brilliant-multilingual!
             - markdown:(c)enter-your-copyright-and-terms-and-conditions
             - markdown:7JybYfG4GEziEtrTL+cNECyjNbiJfseZBSwW85k+kf8
             - price-on-application
@@ -35,7 +36,6 @@ _inputs:
             - a-small-business-template
             - andldquo;their-customer-service-is-second-to-noneandrdquo;
             - book-now
-            - empower-your-business-with-this-brilliant-template
             - eyebrow-heading
             - image-gallery
             - let-your-features-shine
@@ -150,19 +150,19 @@ _inputs:
     options: {}
     comment: "[See on
       page](https://proper-carrot.cloudvent.net/#:~:text=95%20per%20month)"
-  empower-your-business-with-this-brilliant-template:
+  empower-your-business-with-this-brilliant-multilingual!:
     label: Empower your business with this brilliant ...
     hidden: false
     type: textarea
     options: {}
     comment: "[See on
       page](https://proper-carrot.cloudvent.net/#:~:text=Empower%20your%20busin\
-      ess,this%20brilliant%20template)"
+      ess,this%20brilliant%20multilingual!)"
     context:
       open: false
       title: Untranslated Text
       icon: translate
-      content: Empower your business with this brilliant template
+      content: Empower your business with this brilliant multilingual!
   eyebrow-heading:
     label: Eyebrow Heading
     hidden: false
@@ -623,7 +623,7 @@ dollar40: ""
 dollar7599: ""
 dollar79-annually: ""
 dollar95-per-month: ""
-empower-your-business-with-this-brilliant-template: この素晴らしいテンプレートでビジネスを強化しましょう
+empower-your-business-with-this-brilliant-multilingual!: ""
 eyebrow-heading: 眉頭
 image-gallery: イメージギャラリー
 let-your-features-shine: あなたの特徴を輝かせましょう

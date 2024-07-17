@@ -215,9 +215,9 @@
 		"original": "$95 per month",
 		"value": "$95 per month"
 	},
-	"empower-your-business-with-this-brilliant-template": {
-		"original": "\n      Empower your business with this brilliant template\n    ",
-		"value": "Potencia tu negocio con esta brillante plantilla"
+	"empower-your-business-with-this-brilliant-multilingual!": {
+		"original": "\n      Empower your business with this brilliant multilingual!\n    ",
+		"value": "\n      Empower your business with this brilliant multilingual!\n    "
 	},
 	"image-gallery": {
 		"original": "\n      Image Gallery\n    ",
@@ -265,7 +265,7 @@
 	},
 	"product-1": {
 		"original": "Product 1 ",
-		"value": "Product 1 "
+		"value": "Producto 1"
 	},
 	"product-2": {
 		"original": "Product 2",
